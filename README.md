@@ -1,20 +1,34 @@
-## Olá! Eu sou o Leandro Paiva 👋
+## Olá! Eu sou o Leandro Paiva 👋 
 <br/>
+- 🌱 Estudante de Desenvolvimento de Software Web na Trybe.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroapaiva/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o.leandropaiva/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/#622122773)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512996681255&text=contato%20Leandro%20Paiva)
+- ✅ Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
 
+- ✅ Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
 
+- :hourglass_flowing_sand:Desenvolvimento Back-end
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=oleandropaiva&show_icons=true&theme=radical)
+- :hourglass_flowing_sand:Ciência da Computação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleandropaiva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+ <!--
+<div>    
+  ![Snake animation](https://github.com/oleandropaiva/oleandropaiva/blob/output/github-contribution-grid-snake.svg)
+ </div>
+-->
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,6 +40,5 @@
   </div><br/>
 
 ### Eterno estudante 🏋🏽‍♂️🚀
-
 #### Email: leandroapaiva@yahoo.com
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroapaiva/)
