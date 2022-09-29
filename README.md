@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=oleandropaiva)
-</br>
 ## Olá! Eu sou o Leandro Paiva 👋
 
 </br>
