@@ -12,15 +12,15 @@
 
 <br/>
 
-- 🌱 Estudante de Desenvolvimento de Software Web na Trybe.
+ 🌱   Estudante de Desenvolvimento de Software Web na Trybe.
 
-- ✅ Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
+ ✅   Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
 
-- ✅ Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
+ ✅   Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
 
-- :hourglass_flowing_sand:Desenvolvimento Back-end
+  :hourglass_flowing_sand: Desenvolvimento Back-end
 
-- :hourglass_flowing_sand:Ciência da Computação
+  :hourglass_flowing_sand: Ciência da Computação
 
 
 <div style="display: inline_block"><br/>
