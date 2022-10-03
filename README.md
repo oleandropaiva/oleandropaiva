@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleandropaiva&layout=compact&langs_count=7&theme=react"/> 
 </div>
   
-
+<!--
 <br/>
 
  🌱   Estudante de Desenvolvimento de Software Web na Trybe.
@@ -20,7 +20,7 @@
   :hourglass_flowing_sand: Desenvolvimento Back-end
 
   :hourglass_flowing_sand: Ciência da Computação
-
+-->
 
 <div style="display: inline_block">
   <br/>
