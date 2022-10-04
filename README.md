@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leandro Paiva 👋
+## Olá! Sou o Leandro Paiva 👋
 <!--
 </br>
 
@@ -9,19 +9,15 @@
 </div>
   
 <br/>
--->
+
 
  🌱   Estudante de Desenvolvimento de Software Web na Trybe.
-
  ✅   Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
-
  ✅   Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
-
   :hourglass_flowing_sand: Desenvolvimento Back-end
-
   :hourglass_flowing_sand: Ciência da Computação
 
-<!--
+
 <div style="display: inline_block">
   <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,9 +27,11 @@
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   </div>
-  <br/>
-  -->
 
-## Eterno estudante 🏋🏽‍♂️🚀
+  <br/>
+-->
+ 
+
+### Eterno estudante 🏋🏽‍♂️🚀
 #### Email: leandroapaiva@yahoo.com
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroapaiva/)
