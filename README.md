@@ -1,20 +1,27 @@
 ## Olá! Sou o Leandro Paiva 👋
-<!--
+
 </br>
 
 <div align="center">
+
   <a href="https://github.com/oleandropaiva">
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oleandropaiva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleandropaiva&layout=compact&langs_count=7&theme=react"/> 
 </div>
   
 <br/>
 
 
- 🌱   Estudante de Desenvolvimento de Software Web na Trybe.
+ - 🌱   Estudante de Desenvolvimento de Software Web na Trybe.
+ 
  ✅   Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
+ 
  ✅   Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
+ 
   :hourglass_flowing_sand: Desenvolvimento Back-end
+  
   :hourglass_flowing_sand: Ciência da Computação
 
 
@@ -29,7 +36,7 @@
   </div>
 
   <br/>
--->
+
  
 
 ### Eterno estudante 🏋🏽‍♂️🚀
