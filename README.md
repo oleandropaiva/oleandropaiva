@@ -12,7 +12,7 @@
 </div>
   
 <br/>
-
+<!--
  🌱   Estudante de Desenvolvimento de Software Web na Trybe.
  
  ✅   Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
@@ -35,7 +35,7 @@
   </div>
 
   <br/>
-
+-->
  
 
 ### Eterno estudante 🏋🏽‍♂️🚀
