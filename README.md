@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Leandro Paiva 👋 
 ### Eterno estudante 🏋🏽‍♂️🚀
- - 🌱  Estudante de Desenvolvimento Web Full Stack na Trybe; 
- - ✅  Fundamentos do Desenvolvimento Web
- - ✅  Desenvolvimento Front-end
+ 🌱  Estudante de Desenvolvimento Web Full Stack na Trybe
+ - ✔️  Fundamentos do Desenvolvimento Web
+ - ✔️  Desenvolvimento Front-end
  - :hourglass_flowing_sand: Desenvolvimento Back-end  
  - :hourglass_flowing_sand: Ciência da Computação
  
