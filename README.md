@@ -1,4 +1,4 @@
-## 🇧🇷 Olá! Eu sou o Leandro Paiva 👋 
+<h1 align="center">🇧🇷 Olá! Eu sou o Leandro Paiva 👋 </h1>
 ### Eterno estudante 🏋🏽‍♂️🚀
  🌱  Estudante de Desenvolvimento Web Full Stack na Trybe
  - ✔️  Fundamentos do Desenvolvimento Web
