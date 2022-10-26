@@ -10,8 +10,6 @@
  - :hourglass_flowing_sand: Desenvolvimento Back-end  
  - :hourglass_flowing_sand: Ciência da Computação
  
-##
-
 <div align="center">
   <a href="https://github.com/oleandropaiva">
   
