@@ -3,7 +3,8 @@
 </h1>
 </br>
 
-### Eterno estudante 🏋🏽‍♂️🚀
+### Eterno estudante 🏋🏽‍♂️🚀 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
  🌱  Estudante de Desenvolvimento Web Full Stack na Trybe
  - ✔️  Fundamentos do Desenvolvimento Web
  - ✔️  Desenvolvimento Front-end
