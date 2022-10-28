@@ -1,5 +1,5 @@
 <h1 align="center">
- 🇧🇷 Olá! Eu sou o Leandro Paiva 👋
+ 🇧🇷 Olá! Eu sou o Leandro Paiva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 </h1>
 
 ## Eterno estudante 🏋🏽‍♂️🚀 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
