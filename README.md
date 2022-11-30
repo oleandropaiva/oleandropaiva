@@ -8,15 +8,12 @@
  - :hourglass_flowing_sand: Ciência da Computação
  ##
 <div align="center"> <a href="https://github.com/oleandropaiva"> </div>
- 
-
 
  <div>
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api?username=oleandropaiva&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleandropaiva&layout=compact&theme=react" /> 
 </div>
-
 
 ##
 
