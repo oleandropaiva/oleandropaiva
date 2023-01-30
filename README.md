@@ -2,10 +2,11 @@
 
 ## Eterno estudante 🏋🏽‍♂️🚀 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
+ - 🌱 Atualmente estou estudando: C#, .NET e Python
  - ✔️  Fundamentos do Desenvolvimento Web
  - ✔️  Desenvolvimento Front-end
- - :hourglass_flowing_sand: Desenvolvimento Back-end  
- - :hourglass_flowing_sand: Ciência da Computação
+ - ✔️  Desenvolvimento Back-end  
+
  ##
 <div align="center"> <a href="https://github.com/oleandropaiva"> </div>
 
