@@ -2,7 +2,7 @@
 
 ## Eterno estudante 🏋🏽‍♂️🚀 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
- - 🌱 Atualmente estou estudando: C#, .NET e Python
+ - 🌱 Ciências da computação
  - ✔️  Fundamentos do Desenvolvimento Web
  - ✔️  Desenvolvimento Front-end
  - ✔️  Desenvolvimento Back-end  
