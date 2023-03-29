@@ -2,10 +2,10 @@
 
 ## Eterno estudante 🏋🏽‍♂️🚀 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
- - 🌱 Ciências da computação
  - ✔️  Fundamentos do Desenvolvimento Web
  - ✔️  Desenvolvimento Front-end
- - ✔️  Desenvolvimento Back-end  
+ - ✔️  Desenvolvimento Back-end
+ - 🌱 Ciências da computação
 
  ##
 <div align="center"> <a href="https://github.com/oleandropaiva"> </div>
