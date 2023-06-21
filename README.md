@@ -1,17 +1,17 @@
 ## Olá! Eu sou o Leandro Paiva 🇧🇷 
 
-## 👨‍🎓 Eterno estudante 📚
- <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+### 👨‍🎓 Eterno estudante 📚
+ <img align="right" alt="Coding" width="570" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - Graduado em Administração de Empresas
 - Formado em Desenvolvimento Web
 - Estudante de Ciências da Computação
 
- ##
+ ###
 <div align="center"> <a href="https://github.com/oleandropaiva"> </div>
 
  <div>
-  <img height="160em" 
+  <img height="230em" 
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleandropaiva&layout=compact&theme=react" /> 
 </div>
