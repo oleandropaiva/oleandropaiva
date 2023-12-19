@@ -4,7 +4,6 @@
  <img align="right" alt="Coding" width="500" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
  
 - Graduado em Administração de Empresas
-- Formado em Desenvolvimento Web
 - Estudante de Ciências da Computação
 
  ##
